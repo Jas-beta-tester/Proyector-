@@ -89,7 +89,7 @@ main {
   border-left: 200px solid #bd85cc;
   border-right: 200px solid #bd85cc;
   border-top: 100px solid transparent;
-  border-bottom: 120px solid #bd7acf;
+  border-bottom: 150px solid #bd7acf;
 }
 
 .options {
@@ -125,7 +125,7 @@ main {
     top: 0;
   }
   100% {
-    top: -120px;
+    top: -250px;
   }
 }
 
